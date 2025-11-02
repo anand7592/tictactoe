@@ -13,7 +13,7 @@ npm start 🚀
 
 ✨ Enjoy playing!
 
-Then open [http://localhost:3000](http://localhost:3000) in your browser to play the game.
+Then open [http://localhost:3000](https://tigtag.netlify.app/) in your browser to play the game.
 
 ## Features
 
